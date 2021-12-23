@@ -1,0 +1,384 @@
+{
+  "2021-12-21T09:43": [
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4025.485"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3567.215"
+    }
+  ],
+  "2021-12-21T09:44": [
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4026.935"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3565.6"
+    }
+  ],
+  "2021-12-21T09:45": [
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4028.31"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43073.915"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3564.565"
+    }
+  ],
+  "2021-12-21T09:46": [
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4020.73"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3560.135"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43073.915"
+    }
+  ],
+  "2021-12-21T09:47": [
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43060.855"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3559.395"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4019.64"
+    }
+  ],
+  "2021-12-21T09:48": [
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43055.735"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4019.64"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3559.395"
+    }
+  ],
+  "2021-12-21T09:49": [
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43069.15"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4026.105"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3565.295"
+    }
+  ],
+  "2021-12-21T09:50": [
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4022.42"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43069.15"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3562.74"
+    }
+  ],
+  "2021-12-21T10:35": [
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48737.655"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43159.425"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4024.145"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3564.445"
+    }
+  ],
+  "2021-12-21T10:39": [
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3570.445"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43162.39"
+    },
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48730.93"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4032.845"
+    }
+  ],
+  "2021-12-21T10:40": [
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48787.435"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3568.55"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4028.735"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43185.815"
+    }
+  ],
+  "2021-12-21T10:41": [
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3568.55"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4028.735"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43157.415"
+    },
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48723.425"
+    }
+  ],
+  "2021-12-21T10:42": [
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48714.17"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43150.56"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4026.26"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3567.25"
+    }
+  ],
+  "2021-12-21T10:43": [
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3565.175"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43150.56"
+    },
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48714.17"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4024.965"
+    }
+  ],
+  "2021-12-21T10:44": [
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4024.965"
+    },
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48695.925"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3565.525"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43120.54"
+    }
+  ],
+  "2021-12-21T11:20": [
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3568.725"
+    },
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48754.82"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4024.72"
+    },
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43208.085"
+    }
+  ],
+  "2021-12-21T11:26": [
+    {
+      "id": "BTCtoEUR",
+      "fromCurrency": "BTC",
+      "toCurrency": "EUR",
+      "theRate": "43239.67"
+    },
+    {
+      "id": "BTCtoUSD",
+      "fromCurrency": "BTC",
+      "toCurrency": "USD",
+      "theRate": "48781.035"
+    },
+    {
+      "id": "ETHtoUSD",
+      "fromCurrency": "ETH",
+      "toCurrency": "USD",
+      "theRate": "4020.82"
+    },
+    {
+      "id": "ETHtoEUR",
+      "fromCurrency": "ETH",
+      "toCurrency": "EUR",
+      "theRate": "3564.105"
+    }
+  ]
+}
