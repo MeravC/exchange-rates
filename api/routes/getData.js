@@ -44,7 +44,9 @@ router.get('/:fromCurrency/:toCurrency',(req,res,next)=>{
         while(minAgo <= 5){
             date.setMinutes(currentMin - minAgo);
             const dateKey = new Date(date).toISOString().substring(0,16);
-            response.push({"date" : dateKey, "info" : data[dateKey].find(data => data.id === fromCurrency && data.toCurrency === toCurrency)});
+            if(data[dateKey]){
+                response.push({"date" : dateKey, "info" : data[dateKey].find(data => data.id === fromCurrency && data.toCurrency === toCurrency)});
+            }
             minAgo++;
         }
         res.status(200).json(
